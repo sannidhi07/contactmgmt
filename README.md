@@ -1,0 +1,1 @@
+Contact Management API: Developed a RESTful API for managing user authentication and contacts using Node.js, Express, and MongoDB with JWT authentication, bcrypt password hashing, and structured MVC architecture.
